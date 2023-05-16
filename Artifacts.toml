@@ -1,0 +1,27 @@
+[[GRQt5]]
+arch = "x86_64"
+git-tree-sha1 = "9bdd50b0f4501041fae35dd8e3613e5c4018d0b4"
+os = "macos"
+
+    [[GRQt5.download]]
+    sha256 = "cbe6d075d0cb2ced373bb64f2ffe6b656527ac1a3adffc4021d9ce1461e22a48"
+    url = "https://github.com/barche/GRQt5_jll.jl/releases/download/GRQt5-v0.72.4+0/GRQt5.v0.72.4.x86_64-apple-darwin.tar.gz"
+[[GRQt5]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be9fed5401716c292c5b0cc5cb1797bec74f87e3"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt5.download]]
+    sha256 = "01f527820131fb9a1cefce80054c3ee14216607b97eaaeb3a2c267173a747452"
+    url = "https://github.com/barche/GRQt5_jll.jl/releases/download/GRQt5-v0.72.4+0/GRQt5.v0.72.4.x86_64-linux-gnu-cxx11.tar.gz"
+[[GRQt5]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0018e3a384060d1a4909bf78cc02f4789a98f064"
+os = "windows"
+
+    [[GRQt5.download]]
+    sha256 = "44901d8789de1ef8b1eae05b56e111f70b73487bbb3338f3b62f7aa24c2224d1"
+    url = "https://github.com/barche/GRQt5_jll.jl/releases/download/GRQt5-v0.72.4+0/GRQt5.v0.72.4.x86_64-w64-mingw32-cxx11.tar.gz"
